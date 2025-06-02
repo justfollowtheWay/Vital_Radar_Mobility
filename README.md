@@ -14,7 +14,6 @@
 ## ⚙️ System Overview
 
 ![System1](https://github.com/user-attachments/assets/c07fc024-ddd2-4c22-9fc6-53db7439158d)
-![System2](https://github.com/user-attachments/assets/7a097e84-bf9e-4762-8ab2-0e51534a0d4f)
 ![System3](https://github.com/user-attachments/assets/f966a8f1-0374-405f-8223-a301bc3b9c9d)
 ![System4](https://github.com/user-attachments/assets/d6b40495-ef61-4a1a-baa0-08d805effc2f)
 
@@ -28,7 +27,7 @@
 
 ### 📈 Experimental Result
 
-![Result](https://github.com/user-attachments/assets/1ea4cb4d-460d-44f4-9114-0820257a6b23) <!-- ← 최신 첨부 이미지 URL -->
+![Result](https://github.com/user-attachments/assets/7a097e84-bf9e-4762-8ab2-0e51534a0d4f) <!-- ← 최신 첨부 이미지 URL -->
 
 ---
 
